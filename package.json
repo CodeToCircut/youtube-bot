@@ -1,0 +1,7 @@
+{
+  "name": "youtube-bot",
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^133.0.0"
+  }
+}
